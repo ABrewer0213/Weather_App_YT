@@ -1,0 +1,3 @@
+C:\Users\ambre\Documents\web-project\beginner-html-site-scripted-main\Weather\obj\Debug\Weather.njsproj.AssemblyReference.cache
+C:\Users\ambre\Documents\web-project\beginner-html-site-scripted-main\Weather\obj\Debug\Weather.njsproj.CoreCompileInputs.cache
+C:\Users\ambre\Documents\web-project\beginner-html-site-scripted-main\Weather\bin\Microsoft.NodejsTools.WebRole.dll

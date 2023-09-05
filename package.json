@@ -1,0 +1,13 @@
+{
+  "name": "weather",
+  "version": "0.0.0",
+  "description": "Weather",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  },
+  "eslintConfig": {}
+}
